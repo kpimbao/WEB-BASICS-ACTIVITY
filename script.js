@@ -1,4 +1,4 @@
 document.getElementById("btn").addEventListener("click", function () {
     const message = document.getElementById("message");
-    message.textContent = "Have a great day! 😊";
+    message.textContent = "Thank you and Have a great day! 😊";
 });
